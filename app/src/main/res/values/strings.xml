@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog Box</string>
+    <string name="enter_the_number">Enter the number</string>
+    <string name="sum">Sum</string>
+    <string name="subtract">Subtract</string>
+    <string name="reset">Reset</string>
+</resources>
